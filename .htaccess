@@ -1,0 +1,5 @@
+DirectoryIndex landing_page.php login.php
+
+<Files "local_env.php">
+  Require all denied
+</Files>

@@ -1,0 +1,19 @@
+# 1. Fail Konfigurasi Sulit (WAJIB)
+# Jangan sesekali dedahkan fail-fail ini
+local_env.php
+db.php
+
+# 2. Fail Environment Standard
+.env
+
+# 3. Fail Log Ralat PHP
+error_log
+*.log
+
+# 4. Folder 'Vendor' (jika guna Composer)
+vendor/
+
+# 5. Fail Sistem Operasi & IDE
+.DS_Store
+.vscode/
+.idea/
