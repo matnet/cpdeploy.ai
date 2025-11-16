@@ -71,7 +71,7 @@ Credentials and AI never interact directly.
 ### Clone
 
 ```bash
-git clone https://github.com/your-username/cpdeploy.ai.git
+git clone https://github.com/matnet/cpdeploy.ai.git
 cd cpdeploy.ai
 ```
 
